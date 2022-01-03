@@ -9,9 +9,5 @@ The dataset includes the data of stations, trips, and weather in 3 cities: Montr
 Our goal is to improve one data analysis of bike sharing on kaggle and to explore more details by adding two hypotheses in this project to make it more comprehensive.
 ## Installation
 Use the package manager pip to install some modules.
-pip install scipy
-pip install seaborn
-pip install numpy
-pip install pandas
-pip install matplotlib
-pip install haversine
+
+<img width="663" alt="Screen Shot 2022-01-02 at 10 50 45 PM" src="https://user-images.githubusercontent.com/73263355/147905397-cfb9f0f3-374a-4e99-b626-4cf85397b5e9.png">
