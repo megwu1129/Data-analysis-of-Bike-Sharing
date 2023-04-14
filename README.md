@@ -1,4 +1,4 @@
-# Data analysis of Bike Sharing - Big Data Systems
+# Data analysis of Bike Sharing - Python, Pandas, Jupyter Notebook, Matplotlib, plotly
 
 ## Introduction
 
